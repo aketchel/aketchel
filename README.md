@@ -12,7 +12,7 @@ Seasoned leader with 22+ years of experience bridging the gap between complex en
 - 👯 Collaborating: Always open to discussing open-source contributions, SaaS products, entrepenurial ventures or advising innovative startups - especially tech focused startups.
 - 🤔 I'm looking for help with **connecting with like-minded entrepreneurs, investors, and software engineers**.
 - 💬 Ask me about: IT consulting, software engineering, technology leadership, cloud architecture, agile delivery, real estate, scaling software development teams and entrepreneurship.
-- 📫 How to reach me: [aketchel.com](http://www.aketchel.com) · [LinkedIn](https://www.linkedin.com/in/aketchel2) · aketchel@proinstincts.com
+- 📫 How to reach me: (803)524-2802 (cell) · aketchel@proinstincts.com (email)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I've led engineering teams across industries including fintech, nonprofit tech, freight, and insurance. Beyond the IDE, I hold real estate licenses in both **North Carolina and South Carolina** and an insurance license in ** South Carolina ** and am an avid supporter of nonprofits including but not limited to volunteer emergency (911) rescue organizations and local youth scouting leadership.
 
