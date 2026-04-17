@@ -1,6 +1,7 @@
 ##  Arthur Ketchel II 👋
-Strategic Technical Leader, Entrepreneur & Venture Architect — Building the High-Performance Systems and High-Performance Teams with AI-Augmented processes and tools utilizing Scalable Blueprints for the Future of Work.
+++ Strategic Technical Leader, Entrepreneur & Venture Architect — Building the High-Performance Systems and High-Performance Teams with AI-Augmented processes and tools utilizing Scalable Blueprints for the Future of Work. ++
 
+### Executive Summary
 Seasoned leader with 22+ years of experience bridging the gap between complex engineering and business value. A full-stack engineer at heart, I specialize in architecting modern SaaS platforms from the ground up and scaling engineering organizations from lean startups to teams of 80+.
 
 - 🔭 I'm currently working on architecting a suite of next-gen SaaS tools utilizing autonomous coding agents and agentic secure software development lifecycle workflows.
