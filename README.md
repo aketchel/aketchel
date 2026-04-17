@@ -7,10 +7,10 @@ Seasoned leader with 22+ years of experience bridging the gap between complex en
 
 - 🔭 I'm currently working on architecting a suite of next-gen SaaS tools utilizing autonomous coding agents and agentic secure software development lifecycle workflows.
 - 🏗️ In Development:
-        * A streamlined AI-powered HOA management platform designed to simplify community governance and financial transparency.
-        * An AI-powered career assistant that optimizes job transitions and professional growth through intelligent career path guidance and automation.
-        * A high-performance travel analytics engine built to provide real-time clarity across complex pricing ecosystems.
-        * A specialized tool for identifying and evaluating emerging opportunities in the real estate and tech markets.
+-       1.) HOA management platform powered by AI tools designed to simplify community governance and financial transparency.
+        2.) AI Career assistant that optimizes job transitions and professional growth through intelligent career path guidance and automation .
+        3.) A high-performance travel analytics engine built to provide real-time clarity across complex pricing ecosystems.
+        4.) A specialized tool for identifying and evaluating emerging opportunities in the real estate and tech markets.
 - 🌱 Exploring: The intersection of AI and productivity—specifically autonomous coding agents (OpenClaw, Claude Code), MCP, and local LLM orchestration.
 - 👯 Collaborating: Always open to discussing open-source contributions, SaaS products, entrepenurial ventures or advising innovative startups - especially tech focused startups.
 - 🤔 Connecting, collaboration and conservation always welcome with like-minded entrepreneurs, investors, and software engineers.
