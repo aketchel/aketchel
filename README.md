@@ -50,8 +50,8 @@ Seasoned leader with 22+ years of experience bridging the gap between complex en
 
 ### 💼 Career Highlights
 
-| Period | Role | Company |
-|---|---|---|
+| Period | Role | Company | Description
+|---|---|---|---|
 | Jun 2025 – Apr 2026 | Software Development Manager | Total Quality Logistics (TQL) | Modernizing freight tech
 | May 2023 – Jan 2025 | Senior Director, Research and Development (R&D) [GiveSmart] | Community Brands / Momentive Software | Leading Fintech/Non-Profit Fundraising SaaS
 | Sep 2022 – Apr 2023 | Software Delivery Manager (contract) | NFP Corp via PlanIT Group |
