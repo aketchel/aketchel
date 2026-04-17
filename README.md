@@ -1,5 +1,5 @@
 ##  Arthur Ketchel II 👋
-++ Strategic Technical Leader, Entrepreneur & Venture Architect — Building the High-Performance Systems and High-Performance Teams with AI-Augmented processes and tools utilizing Scalable Blueprints for the Future of Work. ++
+Strategic Technical Leader, Entrepreneur & Venture Architect — Building the High-Performance Systems and High-Performance Teams with AI-Augmented processes and tools utilizing Scalable Blueprints for the Future of Work.
 
 ### Executive Summary
 Seasoned leader with 22+ years of experience bridging the gap between complex engineering and business value. A full-stack engineer at heart, I specialize in architecting modern SaaS platforms from the ground up and scaling engineering organizations from lean startups to teams of 80+.
@@ -12,7 +12,7 @@ Seasoned leader with 22+ years of experience bridging the gap between complex en
         * A specialized tool for identifying and evaluating emerging opportunities in the real estate and tech markets.
 - 🌱 Exploring: The intersection of AI and productivity—specifically autonomous coding agents (OpenClaw, Claude Code), MCP, and local LLM orchestration.
 - 👯 Collaborating: Always open to discussing open-source contributions, SaaS products, entrepenurial ventures or advising innovative startups - especially tech focused startups.
-- 🤔 I'm looking for help with **connecting with like-minded entrepreneurs, investors, and software engineers**.
+- 🤔 Connecting, collaboration and conservation always welcome with like-minded entrepreneurs, investors, and software engineers.
 - 💬 Ask me about: IT consulting, software engineering, technology leadership, cloud architecture, agile delivery, real estate, scaling software development teams and entrepreneurship.
 - 📫 How to reach me: (803)524-2802 (cell) · aketchel@proinstincts.com (email)
 - 😄 Pronouns: He / Him
